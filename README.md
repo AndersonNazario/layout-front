@@ -1,2 +1,15 @@
 # layout-front
-desenvolver as páginas do Figma
+# páginas do Figma
+
+![preview](./img/login.png)
+![preview](./img/home.png)
+
+> Projeto das paginas do figma
+
+## Tecnologias. 
+- HTL
+- CSS
+- Git e Githaub
+
+
+[Clique aqui para acessar: ]()

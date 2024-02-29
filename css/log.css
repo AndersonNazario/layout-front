@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: "Advent Pro", sans-serif; 
+}
+
+body {
+    background-color: #ff6c22;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
+.bemVindo {
+    width: 229px;
+    height: 54px;
+    padding-top: 50px;
+    margin-left: 63px;
+    font-size: 20px;
+}
+
+.blocoH2-1 {
+    position: relative;
+    padding: 0;
+    margin: 0;
+	float: left;
+}
+
+.blocoH2-2 {
+    position: relative;
+    padding: 0;
+	float: right;
+}
+
+
+.login {
+    width: 857px;
+    height: 512px;
+    background-color: #FFFFFF;
+}
+
+.logoDoLogin {
+    width: 259px;
+    height: 77.54px;
+    margin-top: 70px;
+    margin-left: 84px;
+}
+
+.bloco1 {
+	max-width: 600px;
+	float: left;
+ }
+
+ .bloco2 {
+	max-width: 600px;
+	float: right;
+ }
+
+.login .imagemDeFundo {
+    position: relative;
+	width: 389px;
+    height: 512px;
+    float: right;
+    background-image: url("../img/fundo.png");
+    background-position: right;
+    background-origin: content-box;
+}
+
+.login .imagemDefundoNotebook {
+    position: relative;
+	width: 414px;
+    height: 413px;
+    margin-top: 100px;
+    margin-right: -320px;
+    float: right;
+}
+
+.form {
+	float: left;
+	width: 370px;
+	color: white;
+    padding-left: 63px;
+}
+
+.form form{
+	margin-top: 15px;
+}
+
+.form form input[type=text]{
+	width: 90%;
+	max-width: 413px;
+	height: 44px;
+	margin-top: 5px;
+	padding-left: 8px;
+	line-height: 58px;
+    border-radius: 5px;
+	border: 1px solid #e6e6e6;
+}
+.form img {
+    position: relative;
+    cursor: pointer;
+    margin-left: -40px;
+}
+.form form input[type=submit]{
+	background-color: #2eafb2;
+	width: 151px;
+	height: 40px;
+	font-size: 13px;
+	color: #FFFFFF;
+	cursor: pointer;
+	margin-top: 15px;
+	border-radius: 5px;
+    font-family: "Roboto", sans-serif;
+}
